@@ -1,3 +1,3 @@
 ## Faculty Profile Under Construction
 
-![construction](maintenance.gif)
+![construction](party_parrot.gif)
