@@ -6,3 +6,9 @@
 #### L2S 3A1 Canada
 
 [Twitter](https://www.twitter.com/onthename)
+<script language="JavaScript">
+var username = "amauro";
+var hostname = "brocku.ca";
+var linktext = username + "@" + hostname ;
+document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
+</script>
