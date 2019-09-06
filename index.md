@@ -7,4 +7,4 @@
 
 [Twitter](https://www.twitter.com/onthename)
 <br>
-amauro<AT>brocku<DOT>ca
+amauro{AT}brocku{DOT}ca
