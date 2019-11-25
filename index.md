@@ -3,7 +3,7 @@
 
 ## Hi, my name is Aaron!
 <div style="margin-top:3%;margin-bottom:3%;">
-I'm Assistant Professor of Digital Media at Brock University in the Centre for Digital Humanities. I teach on topics relating to digital culture, natural language processing, and app development. I've published articles on U.S. literature and culture have appeared in Modern Fiction Studies, Mosaic, and Symploke among others. I have also published on issues relating to digital humanities in both Digital Studies and Digital Humanities Quarterly. My forethcoming book is called _Cybersecurity and the Humanities_ (Emerald Press, 2020). Send me an email or a dm!
+I'm Assistant Professor of Digital Media at [Brock University](https://brocku.ca/) in the [Centre for Digital Humanities]((https://brocku.ca/humanities/digital-humanities/)). I teach on topics relating to digital culture, natural language processing, and app development. I've published articles on U.S. literature and culture have appeared in Modern Fiction Studies, Mosaic, and Symploke among others. I have also published on issues relating to digital humanities in both Digital Studies and Digital Humanities Quarterly. My forethcoming book is called _Cybersecurity and the Humanities_ (Emerald Press, 2020). Send me an email or a dm!
 </div>
 
 #### Dr. Aaron Mauro
