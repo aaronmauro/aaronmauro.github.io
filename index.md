@@ -1,4 +1,4 @@
-<h1 style="display:none;">Dr. Aaron Mauro</h1>
+# Dr. Aaron Mauro
 <img src="portrait.jpg" style="border: 1px solid;border-radius: 180px;float:left;width:25%;margin:3%">
 
 ## Hi, my name is Aaron!
