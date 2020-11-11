@@ -1,3 +1,4 @@
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-53732008-1"></script>
 <script>
@@ -7,6 +8,7 @@
 
   gtag('config', 'UA-53732008-1');
 </script>
+</head>
 
 # Dr. Aaron Mauro
 <img src="portrait.jpg" style="border: 1px solid;border-radius: 180px;float:left;width:25%;margin:3%">
