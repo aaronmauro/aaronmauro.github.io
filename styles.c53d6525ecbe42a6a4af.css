@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Prata:400,700&display=swap);#cycle:after{animation:cycle 4.5s infinite;transition-timing-function:ease;content:""}@keyframes cycle{0%{content:"developer."}33%{content:"teacher."}66%{content:"researcher."}to{content:"developer."}}
+@import url(https://fonts.googleapis.com/css?family=Prata:400,700&display=swap);
 /*!
  * Bootstrap v4.6.0 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
