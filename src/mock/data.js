@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'BloomsburyCover.jpg',
     title: 'Hacking in the Humanities: Cybersecurity, Speculative Fiction and Navigating a Digital Future',
     info: 'This book looks to speculative fiction, cyberpunk and the digital humanities to bring a human — and humanistic — perspective to the issue of cybersecurity. It argues that through these stories we are able to predict the future political, cultural, and social realities emerging from technological change.',
-    info2: 'Making the case for a security-minded humanities education, this book examines pressing issues of data security, privacy, social engineering and more, illustrating how the humanities offer the critical, technical, and ethical insights needed to oppose the normalization of surveillance, disinformation, and coercion. In doing so, Cybersecurity for the Humanities argues for a wider notion of literacy, which includes the ability to write and fight the computer code that shapes our lives.',
+    info2: 'Making the case for a security-minded humanities education, this book examines pressing issues of data security, privacy, social engineering and more, illustrating how the humanities offer the critical, technical, and ethical insights needed to oppose the normalization of surveillance, disinformation, and coercion. In doing so, Hacking in the Humanities argues for a wider notion of literacy, which includes the ability to write and fight the computer code that shapes our lives.',
     url: 'https://www.bloomsbury.com/us/hacking-in-the-humanities-9781350231009/',
     repo: '', // if no repo, the button will not show up
   },
