@@ -57,7 +57,7 @@ export const projectsData = [
     img: 'robo_poetics_cover_2.png',
     title: 'Robo Poetics',
     info:
-      'This document is a collaborative project by the students of IASC 1F01 in the fall of 2020. This course is the introductory course for the Interactive Arts and Science undergraduate major in the Centre for Digital Humanities at Brock University. Our program is a multidisciplinary program that seeks to prepare the next generation of digital media innovators and scholars',
+      'This document is a collaborative project by the students of IASC 1F01. This course is the introductory course for the Interactive Arts and Science undergraduate major in the Centre for Digital Humanities at Brock University. Our program is a multidisciplinary program that seeks to prepare the next generation of digital media innovators and scholars',
     info2:
       'This iteration of the course sought to explore issues related to artificial intelligence (AI). We read several short stories about AI and used the perspective granted by speculative fiction to think deeply about current trends.By the conclusion of the semester, students were able to use the TensorFlow machine learning library to train a Recursive Neural Network to generate "AI poetry" based on student selected training data.',
     url: 'https://github.com/aaronmauro/robopoetics/raw/main/robopoetics.epub',
