@@ -24,7 +24,7 @@ export const aboutData = {
     "I've published articles on U.S. literature and culture, which have appeared in Modern Fiction Studies, Mosaic, and Symploke among others. I have also published on issues relating to digital humanities in both Digital Studies and Digital Humanities Quarterly.",
   paragraphThree:
     'My forthcoming book is called Hacking in the Humanities: Cybersecurity, Speculative Fiction and Navigating a Digital Future (Bloomsbury Publishing).',
-  resume: 'https://www.aaronmauro.com/aaron_mauro_cv.pdf', // if no resume, the button will not show up
+  resume: 'https://www.aaronmauro.com/static/aaron_mauro_cv.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
